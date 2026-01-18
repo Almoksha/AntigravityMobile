@@ -1,0 +1,16 @@
+{
+  "name": "antigravity-mobile",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Mobile dashboard for Antigravity IDE - live chat view and remote control",
+  "main": "http-server.mjs",
+  "scripts": {
+    "start": "node http-server.mjs",
+    "server": "node http-server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sql.js": "^1.13.0",
+    "ws": "^8.16.0"
+  }
+}

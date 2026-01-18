@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Debug/test files
+extra/
+
+# User data
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+
+# Build output (if any)
+dist/
+build/
