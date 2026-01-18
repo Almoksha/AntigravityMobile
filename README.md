@@ -140,4 +140,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 - Inspired by [Antigravity-Shit-Chat](https://github.com/gherghett/Antigravity-Shit-Chat) by gherghett
 - Built for use with [Antigravity IDE](https://antigravity.dev/)
-- Quota monitoring inspired by the Antigravity Cockpit
+- Quota monitoring inspired by the [Antigravity Cockpit](https://marketplace.visualstudio.com/items?itemName=jlcodes.antigravity-cockpit) extension (`jlcodes.antigravity-cockpit`)
